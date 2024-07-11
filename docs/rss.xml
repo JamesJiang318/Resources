@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Resources</title><link>https://JamesJiang318.github.io/Resources</link><description>App's Resources and descriptions</description><copyright>Resources</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://JamesJiang318.github.io/Resources</link></image><lastBuildDate>Thu, 11 Jul 2024 01:48:33 +0000</lastBuildDate><managingEditor>Resources</managingEditor><ttl>60</ttl><webMaster>Resources</webMaster><item><title>Minecraftランチャーと統合パッケージ</title><link>https://JamesJiang318.github.io/Resources/post/Minecraft%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%81%A8-tong-he-%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8.html</link><description>## Minecraftランチャー&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Resources</title><link>https://JamesJiang318.github.io/Resources</link><description>App's Resources and descriptions</description><copyright>Resources</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://JamesJiang318.github.io/Resources</link></image><lastBuildDate>Thu, 11 Jul 2024 02:12:49 +0000</lastBuildDate><managingEditor>Resources</managingEditor><ttl>60</ttl><webMaster>Resources</webMaster><item><title>Activation Office And Windows</title><link>https://JamesJiang318.github.io/Resources/post/Activation%20Office%20And%20Windows.html</link><description>## Windows&#13;
+Open Powershell(Administrator)&#13;
+Word:&#13;
+irm https://get.activated.win | iex&#13;
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\&#13;
+And Choose(write) 1(activation windows)&#13;
+## Office&#13;
+### Download And Setup Office&#13;
+iCloud Share Link&#13;
+https://www.icloud.com/iclouddrive/095F35AnTOuwRF28JSpeLrctw#OfficeSetup&#13;
+OneDrive Share Link&#13;
+https://wxtis-my.sharepoint.com/:u:/g/personal/james_jiang_bostonis_org/ERCxr5jUirhLq1-FprOVjLYBTDxT3nWNcoox9uIsLSmyXQ&#13;
+Google Drive Share Link&#13;
+https://drive.google.com/file/d/1ha-2CKTnuVJfynz8E_TiobFaEjglt7GO/view?usp=drivesdk&#13;
+### Activation Office&#13;
+Open Powershell(Administrator)&#13;
+Word:&#13;
+irm https://get.activated.win | iex&#13;
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\&#13;
+And Choose(write) 2(activation Office)&#13;
+[OfficeSetup.zip](https://github.com/user-attachments/files/16170673/OfficeSetup.zip)&#13;
+。</description><guid isPermaLink="true">https://JamesJiang318.github.io/Resources/post/Activation%20Office%20And%20Windows.html</guid><pubDate>Thu, 11 Jul 2024 02:12:20 +0000</pubDate></item><item><title>Minecraftランチャーと統合パッケージ</title><link>https://JamesJiang318.github.io/Resources/post/Minecraft%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%81%A8-tong-he-%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8.html</link><description>## Minecraftランチャー&#13;
 ### iCloud Share Link&#13;
 https://www.icloud.com/iclouddrive/068uxBvgpzFhapllINk6Z4STw#Minecraft%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC&#13;
 ### OneDrive Share Link&#13;
