@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Resources</title><link>https://JamesJiang318.github.io/Resources</link><description>App's Resources and descriptions</description><copyright>Resources</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://JamesJiang318.github.io/Resources</link></image><lastBuildDate>Thu, 11 Jul 2024 02:12:49 +0000</lastBuildDate><managingEditor>Resources</managingEditor><ttl>60</ttl><webMaster>Resources</webMaster><item><title>Activation Office And Windows</title><link>https://JamesJiang318.github.io/Resources/post/Activation%20Office%20And%20Windows.html</link><description>## Windows&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Resources</title><link>https://JamesJiang318.github.io/Resources</link><description>App's Resources and descriptions</description><copyright>Resources</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://JamesJiang318.github.io/Resources</link></image><lastBuildDate>Sat, 20 Jul 2024 12:37:39 +0000</lastBuildDate><managingEditor>Resources</managingEditor><ttl>60</ttl><webMaster>Resources</webMaster><item><title>MSI Afterburner</title><link>https://JamesJiang318.github.io/Resources/post/MSI%20Afterburner.html</link><description># MSI Afterburner&#13;
+## 下载安装包&#13;
+### 官方网站&#13;
+https://www.msi.com/Landing/afterburner/graphics-cards&#13;
+### 第三方网盘下载&#13;
+OneDrive链接&#13;
+https://wxtis-my.sharepoint.com/:u:/g/personal/james_jiang_bostonis_org/EZlR8-ldHQNBlaECG_TP3tYBtXJQ54-9fEgxIBr3a9EVNQ&#13;
+Google链接&#13;
+https://drive.google.com/file/d/17n7P2n3IV6LcU2qLZVM_45ZO44Wan4xS/view?usp=sharing&#13;
+iCloud链接&#13;
+https://www.icloud.com/iclouddrive/0f9Lqp3J-iE6gWmXa6hpsObmg#MSIAfterburnerSetup&#13;
+123云盘链接&#13;
+https://www.123pan.com/s/IJgKVv-wyAKd.html&#13;
+。</description><guid isPermaLink="true">https://JamesJiang318.github.io/Resources/post/MSI%20Afterburner.html</guid><pubDate>Sat, 20 Jul 2024 12:37:10 +0000</pubDate></item><item><title>Activation Office And Windows</title><link>https://JamesJiang318.github.io/Resources/post/Activation%20Office%20And%20Windows.html</link><description>## Windows&#13;
 Open Powershell(Administrator)&#13;
 Word:&#13;
 irm https://get.activated.win | iex&#13;
